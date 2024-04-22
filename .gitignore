@@ -1,0 +1,17 @@
+*.json
+
+node_modules/
+
+.env
+
+.py
+
+.xlsx
+
+bin/*.py
+
+backup/
+
+backup2/
+
+
